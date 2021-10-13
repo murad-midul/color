@@ -1,0 +1,75 @@
+.header{
+	min-height: 100px;
+	background-color: #C0C0C0; 
+}
+.wrapper{
+	border: 2px solid cyan;
+	overflow: hidden;
+}
+.contact{
+	min-height: 150px;
+	background-color: blue;
+	width: 60%;
+	float: left;
+}
+.blog{
+	min-height: 150px;
+	background-color: green;
+	width: 40%;
+	float: left;
+
+}
+.content{
+	border: 2px solid black;
+	overflow: hidden;
+}
+.test-orange{
+	min-height: 200px;
+	background-color: orange;
+	width: 33.33%;
+	float: left;
+}
+.test-red{
+	min-height: 200px;
+	background-color: red;
+	width: 33.33%;
+	float: left;
+}
+.test-yellow{
+	min-height: 200px;
+	background-color: yellow;
+	width: 33.33%;
+	float: left;
+}
+.container{
+	border: 2px solid cyan;
+	overflow: hidden;
+}
+.text-teal{
+	min-height: 150px;
+	background-color: #008080;
+	width: 25%;
+	float: left;
+}
+.text-navy{
+	min-height: 150px;
+	background-color: #000080;
+	width: 25%;
+	float: left;
+}
+.text-lime{
+	min-height: 150px;
+	background-color: #00FF00;
+	width: 25%;
+	float: left;
+}
+.text-aqua{
+	min-height: 150px;
+	background-color: #00FFFF;
+	width: 25%;
+	float: left;
+}
+.footer{
+	min-height: 50px;
+	background-color: #C0C0C0;
+}
